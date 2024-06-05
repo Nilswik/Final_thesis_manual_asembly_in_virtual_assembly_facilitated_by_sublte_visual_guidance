@@ -1,4 +1,4 @@
-![bild](https://github.com/Nilswik/Final_thesis_manual_asembly_in_virtual_assembly_facilitated_by_sublte_visual_guidance/assets/85519087/54067351-c0f0-4825-8729-1fb15f1a4358)# Final_thesis_manual_asembly_in_virtual_assembly_facilitated_by_sublte_visual_guidance
+#Final_thesis_manual_asembly_in_virtual_assembly_facilitated_by_sublte_visual_guidance
 
 
 
@@ -8,3 +8,6 @@ https://youtu.be/o52bKEnGjiM Cloud puzzle
 
 
 https://youtu.be/oxEMV43SF5E Cow puzzle 
+
+![Skärmbild 2024-06-05 120013](https://github.com/Nilswik/Final_thesis_manual_asembly_in_virtual_assembly_facilitated_by_sublte_visual_guidance/assets/85519087/1f9828e7-db71-4c9b-a79f-03f754c6b4d9)
+
